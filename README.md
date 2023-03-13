@@ -10,8 +10,8 @@ Projeto de TCC para desenvolvimento de ChatBot baseado em JS
 
 Esse projeto tem como principal objetivo ajudar barbearias brasileiras,
 as quais realizam agendamentos de forma manual para os
-seus clientes. Através desse chatbot, o cliente poderá se 
-identificar-se e agendar um horário disponível 
+seus clientes. Através desse chatbot, o cliente poderá identificar-se 
+e agendar um horário disponível com o cabelereriro
 
 
 ## Contatos
